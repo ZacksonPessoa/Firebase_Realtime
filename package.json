@@ -1,0 +1,25 @@
+{
+  "name": "realtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacksonPessoa/Firebase_Realtime.git"
+  },
+  "keywords": [
+    "Z@6k50nm"
+  ],
+  "author": "Zackson Pessoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacksonPessoa/Firebase_Realtime/issues"
+  },
+  "homepage": "https://github.com/ZacksonPessoa/Firebase_Realtime#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
